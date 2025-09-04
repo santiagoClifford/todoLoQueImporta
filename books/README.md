@@ -47,3 +47,5 @@ The Nature of Code - Dan Shiffman
 
 About Face: The Essentials of Interaction Design - Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel
 
+Tengo una platita - Paola Molina
+
