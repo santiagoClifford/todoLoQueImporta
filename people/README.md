@@ -27,5 +27,6 @@
 - Tom Igoe(1967)
 - Christian Oyarzún(1972) [error404.cl](https://www.error404.cl)
 - Casey Reas(1972) Processing
+- Larry Page(1973) Google
 - Ben Fry(1975) Processing
 - Mar Hicks(approx. 1978) Historian of technology with gender focus.
