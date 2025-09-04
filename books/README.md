@@ -49,3 +49,5 @@ About Face: The Essentials of Interaction Design - Alan Cooper, Robert Reimann, 
 
 Tengo una platita - Paola Molina
 
+Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days - Jake Knapp
+

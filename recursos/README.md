@@ -6,6 +6,8 @@
 
 [Figma Community](https://www.figma.com/community)
 
+[design sprints resources](https://designsprintkit.withgoogle.com/resources/overview)
+
 ## cursos
 
 [just javascript](https://justjavascript.com)
@@ -35,5 +37,12 @@ IA - productividad](https://es.linkedin.com/learning/paths/desarrolla-tus-habili
 - [awwwards](https://www.awwwards.com)
 
 - [phacker](https://www.phacker.org)
+
+## kit
+
+[design sprint kit](https://designsprintkit.withgoogle.com)
+
+## study cases
+[design sprints](https://designsprintkit.withgoogle.com/case-studies)
 
 
