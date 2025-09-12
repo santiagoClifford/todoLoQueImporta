@@ -12,7 +12,7 @@
 
 [just javascript](https://justjavascript.com)
 
-IA - productividad](https://es.linkedin.com/learning/paths/desarrolla-tus-habilidades-de-productividad-con-ia-generativa-con-microsoft-y-linkedin)
+[IA - productividad](https://es.linkedin.com/learning/paths/desarrolla-tus-habilidades-de-productividad-con-ia-generativa-con-microsoft-y-linkedin)
 
 - [growth design](https://growth.design)
 
@@ -38,6 +38,7 @@ IA - productividad](https://es.linkedin.com/learning/paths/desarrolla-tus-habili
 
 - [phacker](https://www.phacker.org)
 
+-[precious plastic](https://www.preciousplastic.com)
 ## kit
 
 [design sprint kit](https://designsprintkit.withgoogle.com)
