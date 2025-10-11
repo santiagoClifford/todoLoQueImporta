@@ -1,3 +1,7 @@
+# personas
+
+## personas fallecidas
+
 - Ada Lovelace(1815 - 1852)
 - Samuel Morse(1791 - 1872)
 - Alan Turing(1912-1954)
@@ -12,7 +16,7 @@
 - Ray Tomlinson(1941 - 2016) e-mail standards
 - Larry Tesler(1945 - 2020) Copy Paste, desktop metaphore
  
-##
+## personas no fallecidas
 
 - Don Norman(1935)
 - Ted Nelson (1937)
@@ -21,6 +25,7 @@
 - Robert Metcalfe(1946) ethernet networking
 - Mitch Kapor(1950)Lotus, Mozilla Foundation, Firefox
 - Marc Rettig(approx. 1956)
+- Mitchel Resnick(1956)
 - Robert Reimann(approx. 1960)
 - Jodi Forlizzi (approx. 1965)
 - John Maeda(1966)
