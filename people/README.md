@@ -15,6 +15,7 @@
 - John Heskett(1937-2014) "Design is to design a design to produce a design."
 - Ray Tomlinson(1941 - 2016) e-mail standards
 - Larry Tesler(1945 - 2020) Copy Paste, desktop metaphore
+- José Miguel Infante: fue quien impulsó el proyecto de abolir la esclavitud en Chile, en el gobierno de Ramón Freire.
  
 ## personas no fallecidas
 
