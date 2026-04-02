@@ -1,4 +1,4 @@
-
+# orgs y recursos
 
 [Laws of UX](https://lawsofux.com)
 
@@ -24,7 +24,7 @@
 
 - [BlacksWhoDesign](https://blackswho.design)
 
--  [Ladies that UX](https://ladiesthatux.com)
+- [Ladies that UX](https://ladiesthatux.com)
 
 - [Latins Who Design](https://www.latinxswhodesign.com)
 
@@ -39,11 +39,14 @@
 - [phacker](https://www.phacker.org)
 
 -[precious plastic](https://www.preciousplastic.com)
+
+- [creativeapplications](https://www.creativeapplications.net): plataforma de proyectos y arte.
+
+- [iil](https://iil.is) Intelligent Instruments Lab.
+
 ## kit
 
 [design sprint kit](https://designsprintkit.withgoogle.com)
 
 ## study cases
 [design sprints](https://designsprintkit.withgoogle.com/case-studies)
-
-
