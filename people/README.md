@@ -37,3 +37,8 @@
 - Ben Fry(1975) Processing
 - Mar Hicks(approx. 1978) Historian of technology with gender focus.
 - Limor Fried(app. 1980) Adafruit founder and owner
+
+
+
+
+- Miller Pucket
